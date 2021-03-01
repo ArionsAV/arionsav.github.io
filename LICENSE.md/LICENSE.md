@@ -1,3 +1,0 @@
-# Website for ArionsAV project
-
-...
